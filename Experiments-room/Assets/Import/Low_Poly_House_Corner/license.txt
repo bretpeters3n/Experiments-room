@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly House Corner
+* source:	https://sketchfab.com/3d-models/low-poly-house-corner-cd5fcb4c6e264e4eaded61851f04794d
+* author:	QinFeng (https://sketchfab.com/QinFeng)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly House Corner" (https://sketchfab.com/3d-models/low-poly-house-corner-cd5fcb4c6e264e4eaded61851f04794d) by QinFeng (https://sketchfab.com/QinFeng) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

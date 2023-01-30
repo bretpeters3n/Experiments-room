@@ -1,0 +1,11 @@
+Model Information:
+* title:	Remington Gun
+* source:	https://sketchfab.com/3d-models/remington-gun-8623afa1a7a841519d77449c1488160d
+* author:	Rubilax (https://sketchfab.com/Rubilax_21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Remington Gun" (https://sketchfab.com/3d-models/remington-gun-8623afa1a7a841519d77449c1488160d) by Rubilax (https://sketchfab.com/Rubilax_21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

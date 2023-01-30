@@ -1,0 +1,11 @@
+Model Information:
+* title:	Build Apartment Low Poly
+* source:	https://sketchfab.com/3d-models/build-apartment-low-poly-75f48b2a32a9408aa4091138a51850dd
+* author:	Helyx Silveira (https://sketchfab.com/helyxsilveira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Build Apartment Low Poly" (https://sketchfab.com/3d-models/build-apartment-low-poly-75f48b2a32a9408aa4091138a51850dd) by Helyx Silveira (https://sketchfab.com/helyxsilveira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bazooka of Gold
+* source:	https://sketchfab.com/3d-models/bazooka-of-gold-7ba7acc5971943c99065d7ad170d635b
+* author:	anadhy (https://sketchfab.com/Anadhy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bazooka of Gold" (https://sketchfab.com/3d-models/bazooka-of-gold-7ba7acc5971943c99065d7ad170d635b) by anadhy (https://sketchfab.com/Anadhy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

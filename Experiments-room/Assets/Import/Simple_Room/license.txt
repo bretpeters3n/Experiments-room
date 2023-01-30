@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Room
+* source:	https://sketchfab.com/3d-models/simple-room-7e0aeece30ec41a286d3cd010680885f
+* author:	zocatog (https://sketchfab.com/zocatog)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Room" (https://sketchfab.com/3d-models/simple-room-7e0aeece30ec41a286d3cd010680885f) by zocatog (https://sketchfab.com/zocatog) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
